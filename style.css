@@ -1,0 +1,13 @@
+body{
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: flexbox;
+    justify-content: center;
+    text-align: center;
+    background-color:cadetblue;
+}
+
+button{
+    border: 10px;
+    cursor: pointer;
+}
